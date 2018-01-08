@@ -1,16 +1,16 @@
 Mi primera API REST
 
-##Instalaci√n
+## Install
 
 ....
 pip install Flask
 python app.py
 ....
 
-## Descripci√n
-Esta es la primera API REST de mi portafolio, a√n es sencilla.
+## Description
+This is my first Flask API, some basic.
 
 
-## Implementaci√n
+## Implementation
 
 Este proyecto esta implementado usando Flask y es una API para registrar datos
